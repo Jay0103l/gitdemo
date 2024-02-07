@@ -13,5 +13,6 @@ class Controller extends BaseController
 
     public function demo(){
         dd("welcome to gitdemo");
+        dd("fgbgjdfgjdfngm");
     }
 }
